@@ -33,7 +33,7 @@ The data cleaning process involved both R and Excel to ensure the data was prope
 
 To visualize the cleaned and organized data, we have created an interactive dashboard using PowerBI. Below is the link for the [PowerBI dashboard](https://app.powerbi.com/reportEmbed?reportId=5f78db27-a174-4951-94ed-025c2e8bf1b2).
 
-The excel file with the final cleaned table can be found [here.](https://github.com/stremyjo/Diabetes-Exploratory-Data-Analysis-Dashboard/files/12141152/diabetes_eda_final_table-2.xlsx)
+The excel file with the final cleaned table can be found [here.](https://github.com/stremyjo/Diabetes-Exploratory-Data-Analysis-Dashboard/files/12141152/diabetes_eda_final_table-2.xlsx) Google sheets version [here!](https://docs.google.com/spreadsheets/d/1janHbU9CxGMIyRtR4e-GN72IxE5Db-zjdQXIW79JEA8/edit#gid=1686225637)
 
 
 The PowerPoint file with the PowerBI dashboard can be found [here.](https://github.com/stremyjo/Diabetes-Exploratory-Data-Analysis-Dashboard/files/12141144/Diabetes.Exploratory.Data.Analysis.Dashboard.pptx)
