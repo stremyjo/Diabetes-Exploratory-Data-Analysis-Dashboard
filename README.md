@@ -38,7 +38,7 @@ The excel file with the final cleaned table can be found [here.](https://github.
 
 The PowerPoint file with the PowerBI dashboard can be found [here.](https://github.com/stremyjo/Diabetes-Exploratory-Data-Analysis-Dashboard/files/12141222/Diabetes.Exploratory.Data.Analysis.Dashboard-3.pdf)
 
-A PDF version of the summarized findings can be found [here.](https://github.com/stremyjo/Diabetes-Exploratory-Data-Analysis-Dashboard/files/12141159/Diabetes.Exploratory.Data.Analysis.Dashboard.pdf)
+A PDF version of the summarized findings can be found [here.](https://github.com/stremyjo/Diabetes-Exploratory-Data-Analysis-Dashboard/files/12141238/Diabetes.Exploratory.Data.Analysis.Dashboard-3.pdf)
 
 Feel free to explore the dashboard and interact with the visualizations to gain insights from the data.
 
