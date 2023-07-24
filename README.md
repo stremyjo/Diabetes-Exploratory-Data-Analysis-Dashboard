@@ -36,7 +36,7 @@ To visualize the cleaned and organized data, we have created an interactive dash
 The excel file with the final cleaned table can be found [here.](https://github.com/stremyjo/Diabetes-Exploratory-Data-Analysis-Dashboard/files/12141152/diabetes_eda_final_table-2.xlsx) Google sheets version [here!](https://docs.google.com/spreadsheets/d/1janHbU9CxGMIyRtR4e-GN72IxE5Db-zjdQXIW79JEA8/edit#gid=1686225637)
 
 
-The PowerPoint file with the PowerBI dashboard can be found [here.](https://github.com/stremyjo/Diabetes-Exploratory-Data-Analysis-Dashboard/files/12141144/Diabetes.Exploratory.Data.Analysis.Dashboard.pptx)
+The PowerPoint file with the PowerBI dashboard can be found [here.](https://github.com/stremyjo/Diabetes-Exploratory-Data-Analysis-Dashboard/files/12141222/Diabetes.Exploratory.Data.Analysis.Dashboard-3.pdf)
 
 A PDF version of the summarized findings can be found [here.](https://github.com/stremyjo/Diabetes-Exploratory-Data-Analysis-Dashboard/files/12141159/Diabetes.Exploratory.Data.Analysis.Dashboard.pdf)
 
