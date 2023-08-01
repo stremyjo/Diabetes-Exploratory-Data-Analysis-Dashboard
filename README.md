@@ -40,6 +40,16 @@ The PowerPoint file with the PowerBI dashboard can be found [here.](https://gith
 
 A PDF version of the summarized findings can be found [here.](https://github.com/stremyjo/Diabetes-Exploratory-Data-Analysis-Dashboard/files/12141238/Diabetes.Exploratory.Data.Analysis.Dashboard-3.pdf)
 
+## Excel Dashboard
+
+An Excel Dashboard is also available [here](https://docs.google.com/spreadsheets/d/1janHbU9CxGMIyRtR4e-GN72IxE5Db-zjdQXIW79JEA8/edit?usp=sharing) to illustrate my excel visualization skills and usage of pivot tables.
+
+[PDF Version](https://drive.google.com/file/d/18-gNoZAACW7kTxMFiX6RWSSC9TpX0LUi/view?usp=sharing)
+
+##Case Study
+
+A case study with the summarized findings and further analyses can be found [here.](https://docs.google.com/document/d/1nkI5RyfCWcV7VXbx42hE-vGihiCwRMLOm9IKx2oOAgo/edit?usp=sharing)
+
 Feel free to explore the dashboard and interact with the visualizations to gain insights from the data.
 
 Thank you for visiting our Diabetes Exploratory Data Analysis Project repository! If you have any questions or feedback, please don't hesitate to reach out.
