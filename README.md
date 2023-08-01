@@ -46,7 +46,7 @@ An Excel Dashboard is also available [here](https://docs.google.com/spreadsheets
 
 [PDF Version](https://drive.google.com/file/d/18-gNoZAACW7kTxMFiX6RWSSC9TpX0LUi/view?usp=sharing)
 
-##Case Study
+## Case Study
 
 A case study with the summarized findings and further analyses can be found [here.](https://docs.google.com/document/d/1nkI5RyfCWcV7VXbx42hE-vGihiCwRMLOm9IKx2oOAgo/edit?usp=sharing)
 
